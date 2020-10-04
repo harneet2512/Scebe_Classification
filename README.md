@@ -1,2 +1,2 @@
-# Scebe_Classification
+# Scene_Classification
 Landscape Identification using Keras
